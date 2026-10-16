@@ -1,5 +1,5 @@
 -- ЦКС — Робочий офіс: схема бази даних для Supabase
--- Виконайте весь файл один раз: Supabase → SQL Editor → New query → вставити → Run.
+-- Виконайте весь файл один раз: Supabase → SQL Editor → New query → в1ставити → Run.
 
 -- 1. Таблиці
 create table if not exists public.profiles(
